@@ -6,3 +6,4 @@ These are simple programs / scripts that I've written in Python. These all have 
 - qirky (Quick Information Retrieval Kit for You)         : A shitty neofetch alternative
 - favPy (Favorites Organizer in Python)                   : Organize your favorite ganes by genre
 - speedPy (Speed test in Python)                          : Check your upload and download speed via terminal
+- woody (Write, Organize, and Observe Daily Yields)       : Organize logs by categories, and observe patterns over time.
